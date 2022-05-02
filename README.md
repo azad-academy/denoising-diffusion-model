@@ -21,7 +21,7 @@ This is a simple guide to diffusion models.
 ## The tutorial 📃
 The full tutorial is available on medium.
 
-https://azad-wolf.medium.com/
+https://azad-wolf.medium.com/diffusion-models-made-easy-8414298ce4da
 
 
 
