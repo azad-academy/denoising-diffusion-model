@@ -19,9 +19,16 @@ This is a simple guide to diffusion models.
 
 
 ## The tutorial 📃
-The full tutorial is available on medium.
+
+
+On Medium:
 
 https://azad-wolf.medium.com/diffusion-models-made-easy-8414298ce4da
+
+
+On Substack:
+
+https://azadwolf.substack.com/p/diffusion-models-made-easy
 
 
 
